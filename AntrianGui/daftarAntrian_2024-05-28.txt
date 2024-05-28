@@ -1,0 +1,2 @@
+Nama: halo, NIK: 12345, Nomor Antrian: A-1
+Nama: hal, NIK: 23124, Nomor Antrian: A-1

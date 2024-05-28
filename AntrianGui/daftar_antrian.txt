@@ -1,0 +1,33 @@
+Nama: putri, NIK: 12345
+Nama: putri, NIK: 12345
+Nama: hbjbj, NIK: jhb
+Nama: halo, NIK: dghk
+Nama: putri, NIK: 12345
+Nama: Putri Anastasya , NIK: 12345, Nomor Antrian: A-1
+Nama: Wedanta, NIK: 23456, Nomor Antrian: A-2
+Nama: Lisha, NIK: 34567, Nomor Antrian: C-1
+Nama: Olivia, NIK: 45678, Nomor Antrian: C-2
+Nama: Rose, NIK: 56789, Nomor Antrian: A-3
+Nama: d, NIK: 1, Nomor Antrian: A-1
+Nama: dvsv, NIK: sdvbkb, Nomor Antrian: A-2
+Nama: sdvkj, NIK: 398, Nomor Antrian: C-1
+Nama: d, NIK: 4, Nomor Antrian: A-1
+Nama: jkb, NIK: kbj, Nomor Antrian: C-1
+Nama: jkn, NIK: kjb, Nomor Antrian: A-2
+Nama: kjbl, NIK: 990, Nomor Antrian: C-2
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: , NIK: , Nomor Antrian: 
+Nama: putri, NIK: 12345, Nomor Antrian: A-1
+Nama: adin, NIK: 2345, Nomor Antrian: C-1
+Nama: halo, NIK: 3456, Nomor Antrian: A-2
+Nama: ey, NIK: 2323, Nomor Antrian: A-3
+Nama: vkjbk, NIK: 23, Nomor Antrian: A-1
